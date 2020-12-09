@@ -1,0 +1,24 @@
+.btn-green {
+	background:#28585c; 
+	color: white;
+	border-radius: 4px; 
+	font-size: 30px; 
+	text-decoration: none;
+	font-family: 'Playfair Display', serif;
+}
+
+.btn-green:hover{
+	background-color: rgb(148, 176, 150);
+}
+
+
+.btn-greenend {
+	background:#28585c; 
+	color: white;
+	border-radius: 4px; 
+	font-size: 30px; 
+	text-decoration: none;
+	font-family: 'Playfair Display', serif;
+   text-align: center; 
+}
+
